@@ -1,0 +1,11 @@
+debug/dialog1.o
+debug/dialogd.o
+debug/dialoge.o
+debug/dialogt.o
+debug/main.o
+debug/widget.o
+debug/moc_dialog1.o
+debug/moc_dialogd.o
+debug/moc_dialoge.o
+debug/moc_dialogt.o
+debug/moc_widget.o

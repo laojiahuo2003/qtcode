@@ -1,0 +1,11 @@
+release/dialog1.o
+release/dialogd.o
+release/dialoge.o
+release/dialogt.o
+release/main.o
+release/widget.o
+release/moc_dialog1.o
+release/moc_dialogd.o
+release/moc_dialoge.o
+release/moc_dialogt.o
+release/moc_widget.o
